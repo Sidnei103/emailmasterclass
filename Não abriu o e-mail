@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bônus Especial Para Você!</title>
+</head>
+<body style="background-color: #0A0A0A; font-family: Arial, sans-serif; margin: 0; padding: 0;">
+    <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0" align="center">
+        <tr>
+            <td align="center" style="padding: 20px;">
+                <table role="presentation" width="100%" max-width="600px" cellspacing="0" cellpadding="0" border="0" style="background-color: #141414; border-radius: 10px; padding: 20px; text-align: center; color: #fff;">
+                    <tr>
+                        <td>
+                            <img src="https://i.imgur.com/grgomP9.png" alt="Academia de Metas Logo" width="180" style="margin-bottom: 20px;">
+                        </td>
+                    </tr>
+                    <tr>
+                        <td style="font-size: 22px; font-weight: bold; color: #F9B101;">🎁 Um presente exclusivo para você!</td>
+                    </tr>
+                    <tr>
+                        <td style="font-size: 16px; padding: 15px 20px; line-height: 1.6;">
+                            Você se cadastrou na <strong>Master Class</strong> e liberou um presente especial, mas ainda não acessou!  
+                            <br><br>
+                            🔥 <strong>Um Diagnóstico da sua operação comercial com nossos mentores!</strong>  
+                            <br><br>
+                            🚀 <strong>Oportunidades de crescimento</strong> para ajustar sua estratégia e vender mais.  
+                        </td>
+                    </tr>
+                    <tr>
+                        <td style="font-size: 16px; font-weight: bold; color: #F9B101;">
+                            ⚠️ Mas atenção: essa oferta expira em breve!  
+                        </td>
+                    </tr>
+                    <tr>
+                        <td style="padding: 20px 0;">
+                            <a href="#" style="background-color: #F9B101; color: #000; text-decoration: none; font-size: 16px; font-weight: bold; padding: 12px 24px; border-radius: 5px; display: inline-block;">
+                                🎯 Resgatar Meu Diagnóstico Agora!
+                            </a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td style="font-size: 14px; color: #aaa; padding-top: 15px;">
+                            Não perca essa chance! Nos vemos em breve. 🚀
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+    </table>
+</body>
+</html>

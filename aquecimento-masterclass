@@ -34,6 +34,10 @@
         .cta-button:hover {
             background: #D4A017;
         }
+        .cta-container {
+            text-align: center;
+            padding-top: 20px;
+        }
     </style>
 </head>
 <body>
@@ -69,10 +73,14 @@
                     </tr>
                     <!-- CHAMADA PARA AÇÃO -->
                     <tr>
-                        <td align="center" style="padding-top: 20px;">
-                            <a href="https://sua-pagina-de-confirmacao.com" class="cta-button">
-                                CONFIRMAR PRESENÇA
-                            </a>
+                        <td align="center" class="cta-container">
+                            <table border="0" cellspacing="0" cellpadding="0">
+                                <tr>
+                                    <td align="center" bgcolor="#FFC107" style="border-radius: 5px;">
+                                        <a href="https://sua-pagina-de-confirmacao.com" target="_blank" style="display: block; font-family: Arial, sans-serif; font-size: 18px; font-weight: bold; text-decoration: none; padding: 15px 30px; color: #000; background: #FFC107; border-radius: 5px;">CONFIRMAR PRESENÇA</a>
+                                    </td>
+                                </tr>
+                            </table>
                         </td>
                     </tr>
                     <!-- FRASE FINAL -->

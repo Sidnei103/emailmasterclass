@@ -69,8 +69,8 @@
             text-align: left;
         }
         .content p {
-            margin-bottom: 15px;
-            margin-top: 15px;
+            margin-bottom: 0px;
+            margin-top: 0px;
         }
         .content p.greeting {
             font-family: 'Montserrat', sans-serif;

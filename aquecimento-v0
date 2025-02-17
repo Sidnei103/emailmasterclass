@@ -14,40 +14,63 @@
     </noscript>
     <![endif]-->
     <style>
+        /* Resets */
+        body, table, td, p, a, li, blockquote {
+            -webkit-text-size-adjust: 100%;
+            -ms-text-size-adjust: 100%;
+        }
+        /* Responsive styles */
         @media only screen and (max-width: 600px) {
+            .main-container {
+                width: 100% !important;
+                min-width: 100% !important;
+                max-width: 100% !important;
+            }
             .main-table {
                 width: 100% !important;
+                min-width: 100% !important;
             }
             .mobile-padding {
-                padding: 20px !important;
+                padding-left: 15px !important;
+                padding-right: 15px !important;
             }
             .mobile-text {
                 font-size: 24px !important;
                 line-height: 30px !important;
             }
+            .mobile-content {
+                width: 100% !important;
+                padding: 20px 15px !important;
+            }
+            img {
+                max-width: 100% !important;
+                height: auto !important;
+            }
         }
     </style>
 </head>
-<body style="margin: 0; padding: 0; background-color: #1a1a1a;">
+<body style="margin: 0; padding: 0; background-color: #1a1a1a; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%;">
     <!-- Preheader Text -->
     <div style="display: none; max-height: 0; overflow: hidden;">
         Prepare-se para a Master Class de amanhã! 🎯
     </div>
     
-    <table role="presentation" cellpadding="0" cellspacing="0" style="width: 100%; background-color: #1a1a1a; margin: 0; padding: 0;">
+    <!-- Container Table -->
+    <table role="presentation" class="main-container" cellpadding="0" cellspacing="0" border="0" style="width: 100%; max-width: 600px; margin: 0 auto; background-color: #1a1a1a;">
         <tr>
-            <td align="center" style="padding: 20px 0;">
-                <table role="presentation" cellpadding="0" cellspacing="0" class="main-table" style="width: 600px; background-color: #1a1a1a; color: #ffffff; font-family: Arial, sans-serif;">
+            <td align="center" style="padding: 0;">
+                <!-- Content Table -->
+                <table role="presentation" class="main-table" cellpadding="0" cellspacing="0" border="0" style="width: 100%; max-width: 600px; color: #ffffff; font-family: Arial, sans-serif;">
                     <!-- Logo -->
                     <tr>
-                        <td align="center" style="padding: 20px 0;">
-                            <img src="https://i.imgur.com/gNuFG3w.png" alt="Academia de Metas" style="width: 200px; height: auto;">
+                        <td align="center" class="mobile-content" style="padding: 20px;">
+                            <img src="https://i.imgur.com/gNuFG3w.png" alt="Academia de Metas" style="width: 200px; height: auto; display: block;">
                         </td>
                     </tr>
                     
                     <!-- Main Content -->
                     <tr>
-                        <td class="mobile-padding" style="padding: 40px 50px;">
+                        <td class="mobile-content" style="padding: 40px;">
                             <h1 class="mobile-text" style="color: #FFB800; font-size: 32px; line-height: 40px; margin: 0 0 20px 0; font-weight: bold;">
                                 AMANHÃ É O GRANDE DIA!<br>
                                 Está preparado?
@@ -61,7 +84,7 @@
                                 Você garantiu seu lugar na Master Class e estamos muito animados com sua participação!
                             </p>
                             
-                            <p style="font-size: 16px; line-height: 24px; margin: 0 0 30px 0;">
+                            <p style="font-size: 16px; line-height: 24px; margin: 0 0 20px 0;">
                                 Nesta aula, você aprenderá técnicas para transformar seu time de vendas e desbloquear um novo nível de performance.
                             </p>
                             
@@ -70,10 +93,16 @@
                             </p>
                             
                             <!-- Button -->
-                            <table role="presentation" cellpadding="0" cellspacing="0" style="width: 100%;">
+                            <table role="presentation" cellpadding="0" cellspacing="0" border="0" style="width: 100%;">
                                 <tr>
                                     <td align="center" style="padding: 20px 0;">
-                                        <a href="#" style="background-color: #FFB800; color: #000000; padding: 16px 32px; text-decoration: none; font-weight: bold; border-radius: 4px; display: inline-block; font-size: 16px;">CONFIRMAR PRESENÇA</a>
+                                        <table role="presentation" cellpadding="0" cellspacing="0" border="0">
+                                            <tr>
+                                                <td align="center" style="background-color: #FFB800; border-radius: 4px;">
+                                                    <a href="#" style="display: inline-block; padding: 16px 32px; color: #000000; text-decoration: none; font-weight: bold; font-size: 16px;">CONFIRMAR PRESENÇA</a>
+                                                </td>
+                                            </tr>
+                                        </table>
                                     </td>
                                 </tr>
                             </table>

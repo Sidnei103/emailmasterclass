@@ -131,16 +131,16 @@
         <h1 class="header">AMANHÃ É O GRANDE DIA!</h1>
         <h1 class="header">Está preparado?</h1>
         <div class="content">
-            <p class="greeting">Olá <span>*|PRIMEIRO_NOME|*</span>,</p>
-            <p>Você garantiu seu lugar na <strong>Master Class</strong> e estamos muito animados com sua participação!</p>
-            <p>Nesta aula, você aprenderá técnicas para <strong>transformar seu time de vendas</strong> e desbloquear um novo nível de performance.</p>
-            <p>Para garantir que você não perca nada, <strong>clique no botão abaixo</strong> e ative seu lembrete:</p>
+            <p class="greeting">Olá <span>*|PRIMEIRO_NOME|*</span>,</p><br>
+            <p>Você garantiu seu lugar na <strong>Master Class</strong> e estamos muito animados com sua participação!</p><br>
+            <p>Nesta aula, você aprenderá técnicas para <strong>transformar seu time de vendas</strong> e desbloquear um novo nível de performance.</p><br>
+            <p>Para garantir que você não perca nada, <strong>clique no botão abaixo</strong> e ative seu lembrete:</p><br>
         </div>
         <div class="cta">
             <a href="https://yourlink.com">CONFIRMAR PRESENÇA</a>
         </div>
         <div class="footer">
-            <p>Nos vemos em breve!</p>
+            <p>Nos vemos em breve!</p><br>
             <p>Equipe Academia de Metas</p>
         </div>
     </div>

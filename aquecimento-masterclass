@@ -9,9 +9,12 @@
             margin: 0;
             padding: 0;
             font-family: 'Montserrat', Arial, Helvetica, sans-serif;
-            color: #fff;
-            background: url('https://i.imgur.com/fGXy04x.png') no-repeat center center fixed;
+            color: #ffffff;
+            background-color: #000000 !important;
+            background-image: url('https://i.imgur.com/O9oVR37.png');
             background-size: cover;
+            background-repeat: no-repeat;
+            background-position: center;
         }
         .container {
             width: 100%;
@@ -20,7 +23,7 @@
             text-align: left;
             box-shadow: 0px 4px 10px rgba(0,0,0,0.2);
             position: relative;
-            background-color: rgba(0, 0, 0, 0.85); /* Mantém a legibilidade do conteúdo */
+            background-color: rgba(0, 0, 0, 0.95); /* Fallback */
         }
         .cta-button {
             display: inline-block;
@@ -60,13 +63,13 @@
                     </tr>
                     <!-- SAUDAÇÃO -->
                     <tr>
-                        <td style="font-size: 20px; font-weight: bold; padding-top: 10px;">
-                            <span style="color: #CCCCCC;">Olá</span> <span style="color: #FFC107;">*|PRIMEIRO_NOME|*</span>,
+                        <td style="font-size: 20px; font-weight: bold; padding-top: 10px; color: #ffffff;">
+                            <span>Olá</span> <span style="color: #FFC107;">*|PRIMEIRO_NOME|*</span>,
                         </td>
                     </tr>
                     <!-- TEXTO PRINCIPAL -->
                     <tr>
-                        <td style="color: #CCCCCC; font-size: 18px; line-height: 1.5; padding-top: 10px;">
+                        <td style="color: #ffffff; font-size: 18px; line-height: 1.5; padding-top: 10px;">
                             Você garantiu seu lugar na <strong>Master Class</strong> e estamos muito animados com sua participação!<br><br>
                             Nesta aula, você aprenderá técnicas para <strong>transformar seu time de vendas</strong> e desbloquear um novo nível de performance.<br><br>
                             Para garantir que você não perca nada, <strong>clique no botão abaixo</strong> e ative seu lembrete:

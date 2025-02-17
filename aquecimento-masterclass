@@ -9,12 +9,9 @@
             margin: 0;
             padding: 0;
             font-family: 'Montserrat', Arial, Helvetica, sans-serif;
-            color: #ffffff;
-            background-color: #000000 !important;
-            background-image: url('https://i.imgur.com/O9oVR37.png');
+            color: #fff;
+            background: url('https://i.imgur.com/fGXy04x.png') no-repeat center center fixed;
             background-size: cover;
-            background-repeat: no-repeat;
-            background-position: center;
         }
         .container {
             width: 100%;
@@ -23,7 +20,7 @@
             text-align: left;
             box-shadow: 0px 4px 10px rgba(0,0,0,0.2);
             position: relative;
-            background-color: rgba(0, 0, 0, 0.95); /* Fallback */
+            background-color: rgba(0, 0, 0, 0.85); /* Mantém a legibilidade do conteúdo */
         }
         .cta-button {
             display: inline-block;
@@ -63,8 +60,8 @@
                     </tr>
                     <!-- SAUDAÇÃO -->
                     <tr>
-                        <td style="font-size: 20px; font-weight: bold; padding-top: 10px; color: #ffffff;">
-                            <span>Olá</span> <span style="color: #FFC107;">*|PRIMEIRO_NOME|*</span>,
+                        <td style="font-size: 20px; font-weight: bold; padding-top: 10px;">
+                            <span style="color: #ffffff;">Olá</span> <span style="color: #FFC107;">*|PRIMEIRO_NOME|*</span>,
                         </td>
                     </tr>
                     <!-- TEXTO PRINCIPAL -->

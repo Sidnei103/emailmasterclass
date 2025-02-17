@@ -42,7 +42,7 @@
     <table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#0A0A0A" style="background-color: #0A0A0A !important;">
         <tr>
             <td align="center" bgcolor="#0A0A0A" style="padding: 20px; background-color: #0A0A0A !important;">
-                <table class="container" border="0" cellspacing="0" cellpadding="0" style="background-color: #000 !important;">
+                <table class="container" border="0" cellspacing="0" cellpadding="0" style="background-color: #0A0A0A !important;"> 
                     <tr>
                         <td align="center">
                             <img src="https://i.imgur.com/y54Az83.png" alt="Academia de Metas" width="150" style="margin-bottom: 10px;">

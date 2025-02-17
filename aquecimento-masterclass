@@ -8,12 +8,12 @@
         body {
             margin: 0;
             padding: 0;
-            background-color: #000;
+            background-color: #000 !important;
             font-family: 'Montserrat', Arial, Helvetica, sans-serif;
             color: #fff;
         }
         .container {
-            background: #000;
+            background: #000 !important;
             width: 100%;
             max-width: 600px;
             padding: 30px;
@@ -43,7 +43,7 @@
 <body>
     <table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#000">
         <tr>
-            <td align="center" style="padding: 20px;">
+            <td align="center" bgcolor="#000" style="padding: 20px; background-color: #000 !important;">
                 <table class="container" border="0" cellspacing="0" cellpadding="0">
                     <!-- LOGO -->
                     <tr>
@@ -76,7 +76,7 @@
                         <td align="center" class="cta-container">
                             <table border="0" cellspacing="0" cellpadding="0">
                                 <tr>
-                                    <td align="center" bgcolor="#FFC107" style="border-radius: 5px;">
+                                    <td align="center" bgcolor="#FFC107" style="border-radius: 5px; background-color: #FFC107;">
                                         <a href="https://sua-pagina-de-confirmacao.com" target="_blank" style="display: block; font-family: Arial, sans-serif; font-size: 18px; font-weight: bold; text-decoration: none; padding: 15px 30px; color: #000; background: #FFC107; border-radius: 5px;">CONFIRMAR PRESENÇA</a>
                                     </td>
                                 </tr>

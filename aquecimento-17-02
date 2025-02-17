@@ -48,9 +48,8 @@
         }
         .header {
             font-family: 'Montserrat', sans-serif;
-            font-size: 24px;
-            font-weight: bold;
-            margin-top: 20px;
+            font-size: 22px;
+            font-weight: bold;        
             background: linear-gradient(45deg, #FFC107, #D4A017);
             -webkit-background-clip: text;
             -webkit-text-fill-color: transparent;
@@ -59,14 +58,7 @@
             max-width: 90%;
             margin-left: auto;
             margin-right: auto;
-        }
-        .header br {
-            display: none;
-        }
-        @media (max-width: 480px) {
-            .header br {
-                display: block;
-            }
+            line-height: 1.1; /* Reduzindo espaçamento entre headers */
         }
         @keyframes fadeInUp {
             from {
@@ -136,7 +128,8 @@
         <div class="logo">
             <img src="https://milpbjndlfca1za8.public.blob.vercel-storage.com/bio-images/Color%20logo%20-%20no%20background-W5hEFpRM6G2zVtuYikPcsQT5XGInRQ.png" alt="Academia de Metas">
         </div>
-        <div class="header">AMANHÃ É O GRANDE DIA!<br>Está preparado?</div>
+        <h1 class="header">AMANHÃ É O GRANDE DIA!</h1>
+        <h1 class="header">Está preparado?</h1>
         <div class="content">
             <p class="greeting">Olá <span>*|PRIMEIRO_NOME|*</span>,</p>
             <p>Você garantiu seu lugar na <strong>Master Class</strong> e estamos muito animados com sua participação!</p>

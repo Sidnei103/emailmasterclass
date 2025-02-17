@@ -4,141 +4,61 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Master Class - Academia de Metas</title>
-    <style>
-        @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&family=Inter:wght@400&display=swap');
-        
-        body {
-            font-family: 'Inter', sans-serif;
-            margin: 0;
-            padding: 0;
-            background-color: #000;
-            color: #fff;
-        }
-        .container {
-            max-width: 600px;
-            margin: 0 auto;
-            background: url('https://milpbjndlfca1za8.public.blob.vercel-storage.com/caio%20com%20microfone-Photoroom%20(1)-QXbuJqQu2HnYTPhNI63bCjDRmbvFMT.png') no-repeat left top;
-            background-size: contain;
-            padding: 30px;
-            border-radius: 10px;
-            position: relative;
-            text-align: center;
-            color: #fff;
-            overflow: hidden;
-            box-shadow: 0px 4px 10px rgba(0,0,0,0.2);
-        }
-        .container::before {
-            content: "";
-            position: absolute;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-            background: rgba(0, 0, 0, 0.95);
-            z-index: 0;
-        }
-        .content, .logo, .header, .cta, .footer {
-            position: relative;
-            z-index: 1;
-        }
-        .logo {
-            margin-bottom: 20px;
-        }
-        .logo img {
-            width: 150px;
-        }
-        .header {
-            font-family: 'Montserrat', sans-serif;
-            font-size: 24px;
-            font-weight: bold;        
-            background: linear-gradient(45deg, #FFC107, #D4A017);
-            -webkit-background-clip: text;
-            -webkit-text-fill-color: transparent;
-            animation: fadeInUp 0.8s ease-out;
-            text-align: left;
-            max-width: 90%;
-            margin-left: auto;
-            margin-right: auto;
-        }
-        .content {
-            font-size: 18px;
-            margin-top: 20px;
-            line-height: 1.6;
-            color: #CCCCCC;
-            text-align: left;
-            padding: 10px 20px;
-        }
-        .content p {
-            margin-bottom: 15px;
-        }
-        .content p.greeting {
-            font-family: 'Montserrat', sans-serif;
-            font-size: 20px;
-            font-weight: bold;
-        }
-        .content p.greeting span {
-            color: #FFC107;
-        }
-        .cta {
-            margin-top: 25px;
-        }
-        .cta a {
-            background: linear-gradient(45deg, #FFC107, #D4A017);
-            color: #000;
-            padding: 15px 30px;
-            text-decoration: none;
-            font-size: 18px;
-            font-weight: bold;
-            border-radius: 5px;
-            transition: all 0.3s ease-in-out;
-            display: inline-block;
-        }
-        .cta a:hover {
-            background: linear-gradient(45deg, #D4A017, #FFC107);
-            transform: scale(1.05);
-            box-shadow: 0 0 10px rgba(255, 193, 7, 0.8);
-        }
-        .footer {
-            font-size: 14px;
-            color: #888;
-            margin-top: 20px;
-            padding-top: 20px;
-            text-align: center;
-        }
-        @media (max-width: 480px) {
-            .container {
-                padding: 20px;
-            }
-            .cta {
-                margin-top: 20px;
-            }
-            .cta a {
-                padding: 12px 25px;
-                font-size: 16px;
-            }
-        }
-    </style>
 </head>
-<body>
-    <div class="container">
-        <div class="logo">
-            <img src="https://milpbjndlfca1za8.public.blob.vercel-storage.com/bio-images/Color%20logo%20-%20no%20background-W5hEFpRM6G2zVtuYikPcsQT5XGInRQ.png" alt="Academia de Metas">
-        </div>
-        <h1 class="header">AMANHÃ É O GRANDE DIA!</h1>
-        <h1 class="header">Está preparado?</h1>
-        <div class="content">
-            <p class="greeting">Olá <span>*|PRIMEIRO_NOME|*</span>,</p>
-            <p>Você garantiu seu lugar na <strong>Master Class</strong> e estamos muito animados com sua participação!</p>
-            <p>Nesta aula, você aprenderá técnicas para <strong>transformar seu time de vendas</strong> e desbloquear um novo nível de performance.</p>
-            <p>Para garantir que você não perca nada, <strong>clique no botão abaixo</strong> e ative seu lembrete:</p>
-        </div>
-        <div class="cta">
-            <a href="https://yourlink.com">CONFIRMAR PRESENÇA</a>
-        </div>
-        <div class="footer">
-            <p>Nos vemos em breve!</p>
-            <p>Equipe Academia de Metas</p>
-        </div>
-    </div>
+<body style="margin: 0; padding: 0; background-color: #000; font-family: 'Inter', sans-serif; color: #fff;">
+    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+            <td align="center" style="padding: 20px;">
+                <table width="600px" style="background: #000; border-radius: 10px; padding: 30px; text-align: left; box-shadow: 0px 4px 10px rgba(0,0,0,0.2);">
+                    
+                    <!-- LOGO -->
+                    <tr>
+                        <td align="center">
+                            <img src="https://milpbjndlfca1za8.public.blob.vercel-storage.com/bio-images/Color%20logo%20-%20no%20background-W5hEFpRM6G2zVtuYikPcsQT5XGInRQ.png" alt="Academia de Metas" style="width: 150px; margin-bottom: 10px;">
+                        </td>
+                    </tr>
+                    
+                    <!-- TÍTULO -->
+                    <tr>
+                        <td style="color: #FFC107; font-size: 24px; font-weight: bold; text-align: left;">
+                            AMANHÃ É O GRANDE DIA!<br>Está preparado?
+                        </td>
+                    </tr>
+                    
+                    <!-- SAUDAÇÃO -->
+                    <tr>
+                        <td style="font-size: 20px; font-weight: bold; color: #FFC107; padding-top: 10px;">
+                            Olá *|PRIMEIRO_NOME|*,
+                        </td>
+                    </tr>
+                    
+                    <!-- TEXTO PRINCIPAL -->
+                    <tr>
+                        <td style="color: #CCCCCC; font-size: 18px; line-height: 1.5; padding-top: 10px;">
+                            Você garantiu seu lugar na <strong>Master Class</strong> e estamos muito animados com sua participação!<br><br>
+                            Nesta aula, você aprenderá técnicas para <strong>transformar seu time de vendas</strong> e desbloquear um novo nível de performance.<br><br>
+                            Para garantir que você não perca nada, <strong>clique no botão abaixo</strong> e ative seu lembrete:
+                        </td>
+                    </tr>
+                    
+                    <!-- CHAMADA PARA AÇÃO -->
+                    <tr>
+                        <td align="center" style="padding-top: 20px;">
+                            <a href="https://yourlink.com" style="display: inline-block; background: linear-gradient(45deg, #FFC107, #D4A017); color: #000; font-size: 18px; font-weight: bold; text-decoration: none; padding: 15px 30px; border-radius: 5px; transition: all 0.3s ease-in-out;">
+                                CONFIRMAR PRESENÇA
+                            </a>
+                        </td>
+                    </tr>
+                    
+                    <!-- FRASE FINAL -->
+                    <tr>
+                        <td style="color: #aaa; font-size: 14px; font-style: italic; text-align: center; padding-top: 20px;">
+                            Nos vemos em breve!<br>Equipe Academia de Metas
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+    </table>
 </body>
 </html>

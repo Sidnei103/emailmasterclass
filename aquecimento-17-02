@@ -83,7 +83,7 @@
                             <!-- SAUDAÇÃO -->
                             <tr>
                                 <td style="font-size: 20px; font-weight: bold; padding-top: 10px;">
-                                    Olá <span style="color: #FFC107;">*|PRIMEIRO_NOME|*</span>,
+                                    <span style="color: #CCCCCC;">Olá</span> <span style="color: #FFC107;">*|PRIMEIRO_NOME|*</span>,
                                 </td>
                             </tr>
                             <!-- TEXTO PRINCIPAL -->

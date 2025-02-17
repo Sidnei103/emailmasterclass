@@ -71,7 +71,7 @@
                             <table border="0" cellpadding="0" cellspacing="0" style="width: 100%; max-width: 300px;">
                                 <tr>
                                     <td align="center" class="dark-button" bgcolor="#ffb400" style="border-radius: 4px;">
-                                        <a href="https://materiais.academiademetas.com.br/master-class-confirmacao-de-presenca" style="display: inline-block; padding: 16px 32px; color: #1a1a1a; font-family: Arial, sans-serif; font-size: 16px; font-weight: bold; text-decoration: none;">
+                                        <a href="https://materiais.academiademetas.com.br/master-class-confirmacao-de-presenca" target="_blank" style="display: inline-block; padding: 16px 32px; color: #1a1a1a; font-family: Arial, sans-serif; font-size: 16px; font-weight: bold; text-decoration: none;">
                                             CONFIRMAR PRESENÇA
                                         </a>
                                     </td>

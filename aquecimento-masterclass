@@ -40,7 +40,7 @@
         }
     </style>
 </head>
-<body>
+<body bgcolor="#000" style="background-color: #000 !important;">
     <table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#000">
         <tr>
             <td align="center" bgcolor="#000" style="padding: 20px; background-color: #000 !important;">
@@ -76,8 +76,8 @@
                         <td align="center" class="cta-container">
                             <table border="0" cellspacing="0" cellpadding="0">
                                 <tr>
-                                    <td align="center" bgcolor="#FFC107" style="border-radius: 5px; background-color: #FFC107;">
-                                        <a href="https://sua-pagina-de-confirmacao.com" target="_blank" style="display: block; font-family: Arial, sans-serif; font-size: 18px; font-weight: bold; text-decoration: none; padding: 15px 30px; color: #000; background: #FFC107; border-radius: 5px;">CONFIRMAR PRESENÇA</a>
+                                    <td align="center" bgcolor="#FFC107" style="border-radius: 5px; background-color: #FFC107; padding: 15px 30px;">
+                                        <a href="https://sua-pagina-de-confirmacao.com" target="_blank" style="display: block; font-family: Arial, sans-serif; font-size: 18px; font-weight: bold; text-decoration: none; color: #000;">CONFIRMAR PRESENÇA</a>
                                     </td>
                                 </tr>
                             </table>

@@ -5,60 +5,67 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
     <title>Academia de Metas - Confirmação</title>
 </head>
-<body style="margin: 0; padding: 0; background-color: #1a1a1a;">
-    <table border="0" cellpadding="0" cellspacing="0" width="100%" style="background-color: #1a1a1a;">
+<body style="margin: 0; padding: 0; background-color: #ffffff;">
+    <table border="0" cellpadding="0" cellspacing="0" width="100%" style="background-color: #ffffff;">
         <tr>
             <td align="center">
-                <table border="0" cellpadding="0" cellspacing="0" width="100%" style="max-width: 600px; background-color: #1a1a1a;">
+                <table border="0" cellpadding="0" cellspacing="0" width="100%" style="max-width: 600px;">
                     <!-- Logo -->
                     <tr>
                         <td align="center" style="padding: 20px 20px;">
-                            <img src="https://i.imgur.com/gNuFG3w.png" alt="Academia de Metas" width="200" style="display: block; max-width: 100%;" />
+                            <img src="https://i.imgur.com/V8uX0iJ.png" alt="Academia de Metas" width="200" style="display: block; max-width: 100%;" />
+                        </td>
+                    </tr>
+
+                    <!-- Área de Destaque -->
+                    <tr>
+                        <td style="background-color: #f6f6f6; padding: 25px 20px;">
+                            <table border="0" cellpadding="0" cellspacing="0" width="100%" style="max-width: 560px;">
+                                <tr>
+                                    <td style="color: #111111; font-family: Arial, sans-serif; font-size: 32px; line-height: 38px; font-weight: bold; padding-bottom: 15px;">
+                                        AMANHÃ É O GRANDE DIA!<br />
+                                        <span style="color: #ffb400;">Está preparado?</span>
+                                    </td>
+                                </tr>
+
+                                <tr>
+                                    <td style="color: #111111; font-family: Arial, sans-serif; font-size: 16px; line-height: 24px; padding-bottom: 12px;">
+                                        Olá <strong>*|PRIMEIRO_NOME|*</strong>,
+                                    </td>
+                                </tr>
+
+                                <tr>
+                                    <td style="color: #111111; font-family: Arial, sans-serif; font-size: 16px; line-height: 24px;">
+                                        Você garantiu seu lugar na <strong>Master Class</strong> e estamos muito animados com sua participação!
+                                    </td>
+                                </tr>
+                            </table>
                         </td>
                     </tr>
 
                     <!-- Conteúdo Principal -->
                     <tr>
-                        <td style="padding: 0 20px;">
+                        <td style="padding: 25px 20px;">
                             <table border="0" cellpadding="0" cellspacing="0" width="100%" style="max-width: 560px;">
                                 <tr>
-                                    <td style="color: #FFB800; font-family: Arial, sans-serif; font-size: 32px; line-height: 40px; font-weight: bold; padding-bottom: 20px;">
-                                        AMANHÃ É O GRANDE DIA!<br />
-                                        Está preparado?
+                                    <td style="color: #111111; font-family: Arial, sans-serif; font-size: 16px; line-height: 24px; padding-bottom: 15px;">
+                                        Nesta aula, você aprenderá técnicas para <strong>transformar seu time de vendas e desbloquear um novo nível de performance</strong>.
                                     </td>
                                 </tr>
 
                                 <tr>
-                                    <td style="color: #ffffff; font-family: Arial, sans-serif; font-size: 16px; line-height: 24px; padding-bottom: 20px;">
-                                        Olá *|PRIMEIRO_NOME|*,
-                                    </td>
-                                </tr>
-
-                                <tr>
-                                    <td style="color: #ffffff; font-family: Arial, sans-serif; font-size: 16px; line-height: 24px; padding-bottom: 20px;">
-                                        Você garantiu seu lugar na Master Class e estamos muito animados com sua participação!
-                                    </td>
-                                </tr>
-
-                                <tr>
-                                    <td style="color: #ffffff; font-family: Arial, sans-serif; font-size: 16px; line-height: 24px; padding-bottom: 20px;">
-                                        Nesta aula, você aprenderá técnicas para transformar seu time de vendas e desbloquear um novo nível de performance.
-                                    </td>
-                                </tr>
-
-                                <tr>
-                                    <td style="color: #ffffff; font-family: Arial, sans-serif; font-size: 16px; line-height: 24px; padding-bottom: 30px;">
+                                    <td style="color: #111111; font-family: Arial, sans-serif; font-size: 16px; line-height: 24px; padding-bottom: 20px;">
                                         Para garantir que você não perca nada, clique no botão abaixo e ative seu lembrete:
                                     </td>
                                 </tr>
 
                                 <!-- Botão -->
                                 <tr>
-                                    <td align="center" style="padding: 20px 0;">
+                                    <td align="center" style="padding: 10px 0 20px;">
                                         <table border="0" cellpadding="0" cellspacing="0" style="width: 100%; max-width: 300px;">
                                             <tr>
-                                                <td align="center" bgcolor="#FFB800" style="border-radius: 4px;">
-                                                    <a href="#" style="display: inline-block; padding: 16px 32px; color: #000000; font-family: Arial, sans-serif; font-size: 16px; font-weight: bold; text-decoration: none;">
+                                                <td align="center" bgcolor="#ffb400" style="border-radius: 4px;">
+                                                    <a href="#" style="display: inline-block; padding: 16px 32px; color: #111111; font-family: Arial, sans-serif; font-size: 16px; font-weight: bold; text-decoration: none;">
                                                         CONFIRMAR PRESENÇA
                                                     </a>
                                                 </td>
@@ -69,9 +76,9 @@
 
                                 <!-- Footer -->
                                 <tr>
-                                    <td align="center" style="color: #999999; font-family: Arial, sans-serif; font-size: 14px; line-height: 20px; padding-top: 30px;">
+                                    <td align="center" style="color: #cc9000; font-family: Arial, sans-serif; font-size: 14px; line-height: 20px; padding-top: 20px;">
                                         Nos vemos em breve!<br />
-                                        Equipe Academia de Metas
+                                        <strong>Equipe Academia de Metas</strong>
                                     </td>
                                 </tr>
                             </table>

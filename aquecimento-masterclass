@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Master Class - Academia de Metas</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            background-color: #000;
+            font-family: 'Montserrat', Arial, Helvetica, sans-serif;
+            color: #fff;
+        }
+        .container {
+            background: #000;
+            width: 100%;
+            max-width: 600px;
+            padding: 30px;
+            text-align: left;
+            box-shadow: 0px 4px 10px rgba(0,0,0,0.2);
+            position: relative;
+        }
+        .cta-button {
+            display: inline-block;
+            background: #FFC107;
+            color: #000;
+            font-size: 18px;
+            font-weight: bold;
+            text-decoration: none;
+            padding: 15px 30px;
+            border-radius: 5px;
+        }
+        .cta-button:hover {
+            background: #D4A017;
+        }
+    </style>
+</head>
+<body>
+    <table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#000">
+        <tr>
+            <td align="center" style="padding: 20px;">
+                <table class="container" border="0" cellspacing="0" cellpadding="0">
+                    <!-- LOGO -->
+                    <tr>
+                        <td align="center">
+                            <img src="https://milpbjndlfca1za8.public.blob.vercel-storage.com/bio-images/Color%20logo%20-%20no%20background-W5hEFpRM6G2zVtuYikPcsQT5XGInRQ.png" alt="Academia de Metas" width="150" style="margin-bottom: 10px;">
+                        </td>
+                    </tr>
+                    <!-- TÍTULO -->
+                    <tr>
+                        <td style="color: #FFC107; font-size: 24px; font-weight: bold; text-align: left; padding-top: 20px;">
+                            AMANHÃ É O GRANDE DIA!<br>Está preparado?
+                        </td>
+                    </tr>
+                    <!-- SAUDAÇÃO -->
+                    <tr>
+                        <td style="font-size: 20px; font-weight: bold; padding-top: 10px;">
+                            <span style="color: #CCCCCC;">Olá</span> <span style="color: #FFC107;">*|PRIMEIRO_NOME|*</span>,
+                        </td>
+                    </tr>
+                    <!-- TEXTO PRINCIPAL -->
+                    <tr>
+                        <td style="color: #CCCCCC; font-size: 18px; line-height: 1.5; padding-top: 10px;">
+                            Você garantiu seu lugar na <strong>Master Class</strong> e estamos muito animados com sua participação!<br><br>
+                            Nesta aula, você aprenderá técnicas para <strong>transformar seu time de vendas</strong> e desbloquear um novo nível de performance.<br><br>
+                            Para garantir que você não perca nada, <strong>clique no botão abaixo</strong> e ative seu lembrete:
+                        </td>
+                    </tr>
+                    <!-- CHAMADA PARA AÇÃO -->
+                    <tr>
+                        <td align="center" style="padding-top: 20px;">
+                            <a href="https://sua-pagina-de-confirmacao.com" class="cta-button">
+                                CONFIRMAR PRESENÇA
+                            </a>
+                        </td>
+                    </tr>
+                    <!-- FRASE FINAL -->
+                    <tr>
+                        <td style="color: #aaa; font-size: 14px; font-style: italic; text-align: center; padding-top: 20px;">
+                            Nos vemos em breve!<br>Equipe Academia de Metas
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+    </table>
+</body>
+</html>

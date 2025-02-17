@@ -82,7 +82,7 @@
                             </tr>
                             <!-- SAUDAÇÃO -->
                             <tr>
-                                <td style="font-size: 20px; font-weight: bold; padding-top: 10px; color: #CCCCCC;">
+                                <td style="font-size: 20px; font-weight: bold; padding-top: 10px;">
                                     Olá <span style="color: #FFC107;">*|PRIMEIRO_NOME|*</span>,
                                 </td>
                             </tr>
@@ -97,7 +97,7 @@
                             <!-- CHAMADA PARA AÇÃO -->
                             <tr>
                                 <td align="center" style="padding-top: 20px;">
-                                    <a href="https://yourlink.com" class="cta-button">
+                                    <a href="https://sua-pagina-de-confirmacao.com" class="cta-button">
                                         CONFIRMAR PRESENÇA
                                     </a>
                                 </td>

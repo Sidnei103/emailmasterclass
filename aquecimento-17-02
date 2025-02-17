@@ -13,16 +13,37 @@
             color: #fff;
         }
         .container {
-            background: url('https://milpbjndlfca1za8.public.blob.vercel-storage.com/caio%20com%20microfone-Photoroom%20(1)-QXbuJqQu2HnYTPhNI63bCjDRmbvFMT.png') no-repeat center;
-            background-size: cover;
-            background-position: center;
-            opacity: 0.15;
+            position: relative;
+            background: #000; /* Cor de fundo para evitar falhas na transparência */
             border-radius: 10px;
             padding: 30px;
             text-align: left;
             box-shadow: 0px 4px 10px rgba(0,0,0,0.2);
-            position: relative;
+            max-width: 600px;
+            width: 100%;
+            overflow: hidden;
         }
+        
+        /* Criando o fundo semi-transparente */
+        .container::before {
+            content: "";
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: url('https://milpbjndlfca1za8.public.blob.vercel-storage.com/caio%20com%20microfone-Photoroom%20(1)-QXbuJqQu2HnYTPhNI63bCjDRmbvFMT.png') no-repeat center;
+            background-size: contain;
+            opacity: 0.95; /* Opacidade aplicada corretamente */
+            z-index: 0;
+        }
+        
+        /* Garante que o conteúdo fique acima da imagem */
+        .container > * {
+            position: relative;
+            z-index: 1;
+        }
+        
         .cta-button {
             display: inline-block;
             background: linear-gradient(45deg, #FFC107, #D4A017);

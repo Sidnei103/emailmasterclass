@@ -8,12 +8,10 @@
         body {
             margin: 0;
             padding: 0;
-            background-color: #0A0A0A !important;
             font-family: 'Montserrat', Arial, Helvetica, sans-serif;
             color: #fff;
         }
         .container {
-            background: #000 !important;
             width: 100%;
             max-width: 600px;
             padding: 30px;
@@ -40,30 +38,26 @@
         }
     </style>
 </head>
-<body style="margin: 0; padding: 0; background-color: #0A0A0A; font-family: Arial, sans-serif;">
-    <table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#0A0A0A">
+<body style="margin: 0; padding: 0; background-color: #0A0A0A !important; font-family: Arial, sans-serif;">
+    <table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#0A0A0A" style="background-color: #0A0A0A !important;">
         <tr>
             <td align="center" bgcolor="#0A0A0A" style="padding: 20px; background-color: #0A0A0A !important;">
-                <table class="container" border="0" cellspacing="0" cellpadding="0">
-                    <!-- LOGO -->
+                <table class="container" border="0" cellspacing="0" cellpadding="0" style="background-color: #000 !important;">
                     <tr>
                         <td align="center">
                             <img src="https://i.imgur.com/y54Az83.png" alt="Academia de Metas" width="150" style="margin-bottom: 10px;">
                         </td>
                     </tr>
-                    <!-- TÍTULO -->
                     <tr>
                         <td style="color: #FFC107; font-size: 24px; font-weight: bold; text-align: left; padding-top: 20px;">
                             AMANHÃ É O GRANDE DIA!<br>Está preparado?
                         </td>
                     </tr>
-                    <!-- SAUDAÇÃO -->
                     <tr>
                         <td style="font-size: 20px; font-weight: bold; padding-top: 10px;">
                             <span style="color: #CCCCCC;">Olá</span> <span style="color: #FFC107;">*|PRIMEIRO_NOME|*</span>,
                         </td>
                     </tr>
-                    <!-- TEXTO PRINCIPAL -->
                     <tr>
                         <td style="color: #CCCCCC; font-size: 18px; line-height: 1.5; padding-top: 10px;">
                             Você garantiu seu lugar na <strong>Master Class</strong> e estamos muito animados com sua participação!<br><br>
@@ -71,7 +65,6 @@
                             Para garantir que você não perca nada, <strong>clique no botão abaixo</strong> e ative seu lembrete:
                         </td>
                     </tr>
-                    <!-- CHAMADA PARA AÇÃO -->
                     <tr>
                         <td align="center" class="cta-container">
                             <table border="0" cellspacing="0" cellpadding="0">
@@ -83,7 +76,6 @@
                             </table>
                         </td>
                     </tr>
-                    <!-- FRASE FINAL -->
                     <tr>
                         <td style="color: #aaa; font-size: 14px; font-style: italic; text-align: center; padding-top: 20px;">
                             Nos vemos em breve!<br>Equipe Academia de Metas

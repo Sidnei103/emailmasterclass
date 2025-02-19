@@ -10,6 +10,7 @@
             .dark-text { color: #ffffff !important; }
             .dark-highlight { background-color: #333333 !important; }
             .dark-button { background-color: #ffb400 !important; color: #1a1a1a !important; }
+            .calendar-button { background-color: #ffffff !important; color: #1a1a1a !important; }
         }
     </style>
 </head>
@@ -32,7 +33,7 @@
 
                     <!-- Cabeçalho -->
                     <tr>
-                        <td class="dark-highlight" style="background-color: #333333; padding: 25px 20px; text-align: center;">
+                        <td class="dark-highlight" style="background: linear-gradient(135deg, #333333 0%, #1a1a1a 100%); padding: 25px 20px; text-align: center; border-radius: 8px;">
                             <table border="0" cellpadding="0" cellspacing="0" width="100%">
                                 <tr>
                                     <td class="dark-text" style="color: #ffffff; font-family: Arial, sans-serif; font-size: 32px; line-height: 38px; font-weight: bold; padding-bottom: 15px;">
@@ -63,7 +64,7 @@
 
                     <!-- Tópicos -->
                     <tr>
-                        <td class="dark-highlight" style="background-color: #333333; padding: 25px 20px;">
+                        <td class="dark-highlight" style="background: linear-gradient(135deg, #333333 0%, #1a1a1a 100%); padding: 25px 20px; border-radius: 8px;">
                             <table border="0" cellpadding="0" cellspacing="0" width="100%">
                                 <tr>
                                     <td class="dark-text" style="color: #ffffff; font-family: Arial, sans-serif; font-size: 16px; line-height: 24px; padding-bottom: 15px;">
@@ -84,14 +85,15 @@
                         </td>
                     </tr>
 
-                    <!-- CTA -->
+                    <!-- CTAs -->
                     <tr>
                         <td align="center" style="padding: 30px 20px;">
-                            <table border="0" cellpadding="0" cellspacing="0" style="width: 100%; max-width: 300px;">
+                            <table border="0" cellpadding="0" cellspacing="0" style="width: 100%; max-width: 400px;">
+                                <!-- Botão Calendário -->
                                 <tr>
-                                    <td align="center" class="dark-button" bgcolor="#ffb400" style="border-radius: 4px;">
-                                        <a href="#" style="display: inline-block; padding: 16px 32px; color: #1a1a1a; font-family: Arial, sans-serif; font-size: 18px; font-weight: bold; text-decoration: none;">
-                                            ACESSAR AGORA
+                                    <td align="center" class="calendar-button" bgcolor="#ffb400" style="border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+                                        <a href="https://calendar.google.com/calendar/u/0/r/eventedit?text=Parte+2+Master+Class+-+Como+Transformar+Seu+Time+de+Vendas+Em+Uma+M%C3%A1quina+De+Alta+Performance&dates=20250219T220000Z/20250219T230000Z&details=Descubra+como+estruturar+um+time+de+vendas+que+bate+metas+com+consist%C3%AAncia+e+previsibilidade!+Saiba+mais+em:+meet.google.com/yyu-kwyr-xoj&location=meet.google.com/yyu-kwyr-xoj&sf=true&output=xml" target="_blank" style="display: inline-block; padding: 16px 32px; color: #1a1a1a; font-family: Arial, sans-serif; font-size: 18px; font-weight: bold; text-decoration: none; width: 100%; box-sizing: border-box;">
+                                            📅 ADICIONAR AO CALENDÁRIO
                                         </a>
                                     </td>
                                 </tr>
@@ -117,3 +119,4 @@
     </table>
 </body>
 </html>
+

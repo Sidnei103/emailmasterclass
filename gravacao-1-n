@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>🎁 Seu presente chegou! Acesse agora sua Master Class</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&display=swap');
+    </style>
+</head>
+<body style="margin: 0; padding: 0; font-family: 'Montserrat', Arial, sans-serif; line-height: 1.6; color: #333333; background-color: #f4f4f4;">
+    <div style="max-width: 600px; margin: 0 auto; background-color: #ffffff; padding: 20px;">
+        <!-- Header -->
+        <div style="text-align: center; padding: 20px 0;">
+            <img src="https://i.postimg.cc/SQzZQmmk/Black-logo-no-background.png" alt="Academia de Metas" style="max-width: 250px; height: auto;">
+        </div>
+
+        <!-- Main Content -->
+        <div style="padding: 20px;">
+            <h1 style="color: #1a1a1a; font-size: 24px; margin-bottom: 20px;">🎁 Seu presente chegou!</h1>
+            
+            <p style="margin-bottom: 15px;">📢 Parabéns, *|PRIMEIRO_NOME|*! Você agora tem acesso à gravação da Master Class da Academia de Metas.</p>
+
+            <p style="margin-bottom: 15px;">🔥 Foram duas aulas intensas que podem transformar seus resultados e desbloquear novas oportunidades.</p>
+
+            <div style="text-align: center; margin: 30px 0;">
+                <a href="https://drive.google.com/file/d/1sJMkC41DIUsrQB3C2hvBGm-tTqjrQF2i/view?usp=drive_link" style="display: inline-block; background-color: #000000; color: #ffffff; text-decoration: none; padding: 15px 30px; border-radius: 5px; font-weight: 600; font-size: 16px;">👉 Assistir Agora</a>
+            </div>
+
+            <p style="margin-bottom: 15px; font-size: 18px; font-weight: 600;">💡 Quer levar esse conhecimento para o próximo nível?</p>
+
+            <p style="margin-bottom: 15px;">📊 Estamos oferecendo Sessões de Diagnóstico Gratuitas para ajudar você a aplicar essa estratégia no seu caso específico.</p>
+
+            <div style="background-color: #f8f8f8; padding: 20px; border-radius: 5px; margin: 20px 0;">
+                <p style="font-weight: 600; margin-bottom: 15px;">🚀 O que você ganha na sessão:</p>
+                <ul style="list-style: none; padding-left: 0; margin: 0;">
+                    <li style="margin-bottom: 10px;">✅ Análise personalizada da sua estratégia.</li>
+                    <li style="margin-bottom: 10px;">✅ Diagnóstico do seu maior gargalo.</li>
+                    <li style="margin-bottom: 10px;">✅ Plano de ação para acelerar seus resultados.</li>
+                </ul>
+            </div>
+
+            <div style="text-align: center; margin: 30px 0;">
+                <p style="font-weight: 600; margin-bottom: 15px;">🎯 Vagas limitadas! Reserve agora:</p>
+                <a href="https://docs.google.com/forms/d/1db1JyyWDaKj8SkxyRAzUSJhKtjfntWRFDZbiIyZVQUI/edit" style="display: inline-block; background-color: #000000; color: #ffffff; text-decoration: none; padding: 15px 30px; border-radius: 5px; font-weight: 600; font-size: 16px;">👉 Agendar Sessão Gratuita</a>
+            </div>
+
+            <p style="margin-top: 30px; font-style: italic; color: #666666;">🔹 PS: Não deixe para depois! As vagas da Sessão de Diagnóstico são extremamente limitadas e podem acabar em poucas horas.</p>
+
+            <p style="margin-top: 30px;">Nos vemos na sessão!</p>
+            
+            <p style="margin-bottom: 0;">Equipe Academia de Metas 🚀</p>
+        </div>
+
+        <!-- Footer -->
+        <div style="text-align: center; margin-top: 30px; padding-top: 20px; border-top: 1px solid #eeeeee; font-size: 12px; color: #666666;">
+            <p>© 2025 Academia de Metas. Todos os direitos reservados.</p>
+            <p>Para cancelar a inscrição, clique <a href="#" style="color: #666666;">aqui</a>.</p>
+        </div>
+    </div>
+</body>
+</html>

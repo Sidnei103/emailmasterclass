@@ -1,0 +1,101 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>Academia de Metas - Não perca a Master Class!</title>
+    <style type="text/css">
+        @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&display=swap');
+        
+        body {
+            margin: 0;
+            padding: 0;
+            -webkit-text-size-adjust: 100%;
+            -ms-text-size-adjust: 100%;
+        }
+        
+        @media only screen and (max-width: 600px) {
+            .email-container {
+                width: 100% !important;
+            }
+            .fluid {
+                max-width: 100% !important;
+                height: auto !important;
+                margin-left: auto !important;
+                margin-right: auto !important;
+            }
+            .stack-column {
+                display: block !important;
+                width: 100% !important;
+                max-width: 100% !important;
+                direction: ltr !important;
+            }
+            .center-on-mobile {
+                text-align: center !important;
+            }
+        }
+    </style>
+</head>
+<body style="margin: 0; padding: 0; background-color: #f6f6f6; font-family: 'Montserrat', Arial, sans-serif;">
+    <!-- Preheader Text -->
+    <div style="display: none; max-height: 0; overflow: hidden;">
+        Não perca a oportunidade de assistir à nossa Master Class exclusiva!
+    </div>
+
+    <center style="width: 100%; background-color: #f6f6f6; padding: 30px 0;">
+        <table border="0" cellpadding="0" cellspacing="0" width="100%" style="max-width: 600px;" class="email-container">
+            <!-- Logo Header -->
+            <tr>
+                <td align="center" style="padding: 20px 0;">
+                    <img src="https://i.postimg.cc/SQzZQmmk/Black-logo-no-background.png" alt="Academia de Metas" width="200" style="display: block; margin: 0 auto;" />
+                </td>
+            </tr>
+
+            <!-- Main Content -->
+            <tr>
+                <td style="background-color: #ffffff; padding: 40px 30px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+                    <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                        <!-- Mensagem Principal -->
+                        <tr>
+                            <td style="padding-bottom: 30px;">
+                                <p style="margin: 0; font-size: 18px; line-height: 28px; color: #111111;">
+                                    Oi *|PRIMEIRO_NOME|*,
+                                </p>
+                                <p style="margin: 15px 0 0; font-size: 16px; line-height: 24px; color: #111111;">
+                                    Percebi que você ainda não acessou a gravação da Master Class. Estou enviando o link novamente para garantir que você não perca!
+                                </p>
+                            </td>
+                        </tr>
+
+                        <!-- CTA -->
+                        <tr>
+                            <td align="center" style="padding-top: 10px;">
+                                <table border="0" cellpadding="0" cellspacing="0">
+                                    <tr>
+                                        <td align="center" style="border-radius: 8px; background-color: #ffb400;">
+                                            <a href="https://bit.ly/4b7EBhC" target="_blank" style="display: inline-block; padding: 16px 36px; font-size: 18px; color: #111111; text-decoration: none; border-radius: 8px; font-weight: 600;">
+                                                Assistir à Master Class Agora
+                                            </a>
+                                        </td>
+                                    </tr>
+                                </table>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+
+            <!-- Footer -->
+            <tr>
+                <td style="padding: 30px 0; text-align: center;">
+                    <p style="margin: 0; font-size: 14px; line-height: 21px; color: #111111;">
+                        Academia de Metas © 2025<br>
+                        Transformando times de vendas
+                    </p>
+                </td>
+            </tr>
+        </table>
+    </center>
+</body>
+</html>
+

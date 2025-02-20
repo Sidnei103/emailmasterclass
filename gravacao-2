@@ -59,7 +59,7 @@
                         <tr>
                             <td style="padding-bottom: 25px;">
                                 <p style="margin: 0; font-size: 18px; line-height: 26px; color: #111111;">
-                                    📢 Ei, [Nome]! Tudo bem?
+                                    📢 Ei, *|PRIMEIRO_NOME|*! Tudo bem?
                                 </p>
                             </td>
                         </tr>
@@ -100,7 +100,7 @@
                                         ✅ Criamos um plano de ação para você implementar agora.
                                     </li>
                                     <li style="margin-bottom: 0; font-size: 16px; line-height: 24px;">
-                                        ✅ Personalizado para seu momento atual!
+                                        ✅ Você fica com o nosso contato para sanar dúvidas 
                                     </li>
                                 </ul>
                             </td>

@@ -1,0 +1,166 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>Academia de Metas - Feedback da Master Class</title>
+    <style type="text/css">
+        @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&display=swap');
+        
+        body {
+            margin: 0;
+            padding: 0;
+            -webkit-text-size-adjust: 100%;
+            -ms-text-size-adjust: 100%;
+        }
+        
+        @media only screen and (max-width: 600px) {
+            .email-container {
+                width: 100% !important;
+            }
+            .fluid {
+                max-width: 100% !important;
+                height: auto !important;
+                margin-left: auto !important;
+                margin-right: auto !important;
+            }
+            .stack-column {
+                display: block !important;
+                width: 100% !important;
+                max-width: 100% !important;
+                direction: ltr !important;
+            }
+            .center-on-mobile {
+                text-align: center !important;
+            }
+        }
+    </style>
+</head>
+<body style="margin: 0; padding: 0; background-color: #f6f6f6; font-family: 'Montserrat', Arial, sans-serif;">
+    <!-- Preheader Text -->
+    <div style="display: none; max-height: 0; overflow: hidden;">
+        👉 O que mais chamou sua atenção na Master Class? Quero saber sua opinião!
+    </div>
+
+    <center style="width: 100%; background-color: #f6f6f6; padding: 30px 0;">
+        <table border="0" cellpadding="0" cellspacing="0" width="100%" style="max-width: 600px;" class="email-container">
+            <!-- Logo Header -->
+            <tr>
+                <td align="center" style="padding: 20px 0;">
+                    <img src="https://i.postimg.cc/SQzZQmmk/Black-logo-no-background.png" alt="Academia de Metas" width="200" style="display: block; margin: 0 auto;" />
+                </td>
+            </tr>
+
+            <!-- Main Content -->
+            <tr>
+                <td style="background-color: #ffffff; padding: 40px 30px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+                    <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                        <!-- Saudação -->
+                        <tr>
+                            <td style="padding-bottom: 25px;">
+                                <p style="margin: 0; font-size: 18px; line-height: 26px; color: #111111;">
+                                    📢 Ei, [Nome]! Tudo bem?
+                                </p>
+                            </td>
+                        </tr>
+
+                        <!-- Pergunta Principal -->
+                        <tr>
+                            <td style="padding-bottom: 25px;">
+                                <p style="margin: 0; font-size: 16px; line-height: 24px; color: #111111;">
+                                    Você já assistiu à gravação da Master Class da Academia de Metas? 🚀<br><br>
+                                    O que mais te chamou atenção? Quero saber se teve algum insight poderoso ou se ficou com alguma dúvida!
+                                </p>
+                            </td>
+                        </tr>
+
+                        <!-- Seção Próximo Nível -->
+                        <tr>
+                            <td style="padding-bottom: 25px;">
+                                <h2 style="margin: 0 0 15px; font-size: 20px; line-height: 28px; color: #111111; font-weight: 600;">
+                                    📊 Quer levar isso para o próximo nível?
+                                </h2>
+                                <p style="margin: 0; font-size: 16px; line-height: 24px; color: #111111;">
+                                    Se você quer saber exatamente como aplicar esses conceitos na sua realidade, ainda temos algumas vagas para a Sessão de Diagnóstico Personalizada.
+                                </p>
+                            </td>
+                        </tr>
+
+                        <!-- O que acontece na sessão -->
+                        <tr>
+                            <td style="background-color: #ffc333; padding: 25px; border-radius: 8px; margin-bottom: 25px;">
+                                <h3 style="margin: 0 0 15px; font-size: 18px; line-height: 26px; color: #111111; font-weight: 600;">
+                                    📍 O que acontece na sessão?
+                                </h3>
+                                <ul style="margin: 0; padding: 0 0 0 20px; color: #111111;">
+                                    <li style="margin-bottom: 10px; font-size: 16px; line-height: 24px;">
+                                        ✅ Identificamos onde você pode crescer mais rápido.
+                                    </li>
+                                    <li style="margin-bottom: 10px; font-size: 16px; line-height: 24px;">
+                                        ✅ Criamos um plano de ação para você implementar agora.
+                                    </li>
+                                    <li style="margin-bottom: 0; font-size: 16px; line-height: 24px;">
+                                        ✅ Personalizado para seu momento atual!
+                                    </li>
+                                </ul>
+                            </td>
+                        </tr>
+
+                        <!-- Espaçador -->
+                        <tr>
+                            <td style="padding: 15px 0;"></td>
+                        </tr>
+
+                        <!-- CTA -->
+                        <tr>
+                            <td align="center">
+                                <table border="0" cellpadding="0" cellspacing="0">
+                                    <tr>
+                                        <td align="center" style="border-radius: 8px; background-color: #ffb400;">
+                                            <a href="https://forms.gle/d2xMrYQzo57q5DL16" target="_blank" style="display: inline-block; padding: 16px 36px; font-size: 18px; color: #111111; text-decoration: none; border-radius: 8px; font-weight: 600;">
+                                                🎯 Reserve sua vaga agora!
+                                            </a>
+                                        </td>
+                                    </tr>
+                                </table>
+                            </td>
+                        </tr>
+
+                        <!-- PS -->
+                        <tr>
+                            <td style="padding-top: 25px;">
+                                <p style="margin: 0; font-size: 14px; line-height: 21px; color: #111111; font-style: italic;">
+                                    🔹 PS: As vagas são limitadas e estão sendo preenchidas rapidamente. Se você realmente quer avançar, não perca essa oportunidade!
+                                </p>
+                            </td>
+                        </tr>
+
+                        <!-- Despedida -->
+                        <tr>
+                            <td style="padding-top: 30px;">
+                                <p style="margin: 0 0 10px; font-size: 16px; line-height: 24px; color: #111111;">
+                                    Nos vemos lá!
+                                </p>
+                                <p style="margin: 0; font-size: 16px; line-height: 24px; color: #111111; font-weight: 600;">
+                                    Equipe Academia de Metas 🚀
+                                </p>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+
+            <!-- Footer -->
+            <tr>
+                <td style="padding: 30px 0; text-align: center;">
+                    <p style="margin: 0; font-size: 14px; line-height: 21px; color: #111111;">
+                        Academia de Metas © 2025<br>
+                        Transformando times de vendas
+                    </p>
+                </td>
+            </tr>
+        </table>
+    </center>
+</body>
+</html>
+
